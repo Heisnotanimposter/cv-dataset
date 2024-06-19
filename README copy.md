@@ -223,3 +223,21 @@ Colour legend
     Deprecated: used previously but no longer assigned
 486/676
     Unassigned
+
+
+Common Voice Weekly Update Thread for 2021-2022:
+
+**Common Voice Weekly Update Thread - 2021-2022**
+- **Purpose**: To facilitate open communication between the Common Voice Team and the community.
+- **Content**: Updates include sentence collection tips, grants, opportunities, and discussions on various topics like model competitions and strategies for engaging diverse age groups.
+- **Highlights**:
+  - **Language Rep Sessions**: Discussions on competitions, sentence collection strategies, and engagement of older age groups and those with limited digital access.
+  - **Sentence Collection Tips**: Jonathon, the Luganda language representative, shared advice on sentence collection.
+- **Updates Timeline**:
+  - **Q2 - 2022**: Updates for July, June, and May.
+  - **Q1 - 2022**: Features like Variant Feature, Community Events Workshop, International Mother Languages Day, and documentation updates.
+  - **2021**: Monthly updates from January to December, including dataset releases and establishing variants.
+
+The thread was created and closed in August 2021 and was designed to improve the discoverability of updates and encourage community feedback.
+
+For more detailed information or to provide feedback, community members are encouraged to click on the respective topics listed in the thread.
